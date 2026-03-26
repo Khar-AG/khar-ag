@@ -1,6 +1,6 @@
 # Привет, я Андрей (Khar_AG) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=500&height=50&color=F82525&vCenter=true&pause=1000&size=22&lines=Вайбкодер+/+Инди-разработчик;SaaS+с+нуля+без+знания+кода;Make.com+Архитектор;AI+Агенты+на+Railway;Автоматизация+Контента)](https://khar-ag.ru/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=500&height=50&color=A855F7&vCenter=true&pause=1000&size=22&lines=Вайбкодер+/+Инди-разработчик;Make.com+Архитектор;AI+Агенты+на+Railway;Автоматизация+Контента)](https://khar-ag.ru/)
 
 **Вайбкодинг • Инди-разработка • AI агенты • Make.com**
 
