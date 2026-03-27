@@ -42,7 +42,6 @@
 [![Make.com](https://img.shields.io/badge/Make.com-Бывалый-5C2D91?style=for-the-badge)](https://make.com)
 [![Claude](https://img.shields.io/badge/Claude-ВанЛав!-CC785C?style=for-the-badge)](https://anthropic.com)
 [![Railway](https://img.shields.io/badge/Railway-МойХостинг-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)]([https://railway.app](https://railway.com?referralCode=khar_ag))
-[![VK API](https://img.shields.io/badge/VK_API-Custom_Modules-0077FF?style=for-the-badge)](https://t.me/vibekovcheg)
 
 `Node.js` • `Python` • `PostgreSQL` • `Gemini API` • `OpenAI API` • `Prompt Engineering`
 
