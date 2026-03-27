@@ -48,12 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khar-AG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF)](https://github.com/Khar-AG)
-
----
-
 ### 📫 Связь
 
 - 💬 **Канал:** [@vibekovcheg](https://t.me/vibekovcheg) — вайбкодинг, кейсы, инсайды
